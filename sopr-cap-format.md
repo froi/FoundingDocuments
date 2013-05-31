@@ -36,6 +36,10 @@ Any one. This will not be limited to active community members. It is meant to fo
 
 The SoPR board members will evaluate and answer CAPs as they arise and time allows.
 
+## How will a CAP be evaluated?
+
+When proposing a CAP, the author must convince and win the "sponsorship" of the majority of the board members. The CAP must comply with the defined requirements depending on the type of event or initiative. In the case of an event, the author must commit to move their participants to the next stage of the process and share statistics of their efforst.
+
 ## What should go into a CAP?
 
 The following is the proposed use for a CAP:
@@ -77,6 +81,17 @@ The document structure should follow the following guide lines:
                 -   Petition - the proposal will make a petition to the community
 
                 -   Documentation - proposed changes to documentation and guides
+         -	Stage (in case of an Event):
+        
+        	- Recruitment
+        	
+        	- Conversion
+        	
+        	- Education
+        	
+        	- Capital
+        	
+        	- Launch
 
         -   Version - this should follow the *mayor*.*minor*.*bug/fix* format. E.g. 1.0.0
 
